@@ -97,7 +97,7 @@ color: black;
 
 
 
-email:activ
+
     
 
 .box4 > hr{
@@ -108,16 +108,21 @@ email:activ
 .email  {
     display: inline-block;
     margin-top: 10px;
-    margin-left: 300px;
     
     background-color:rgb(255, 200, 200) ;
     
 }
 .contact {
     background-color:rgb(255, 200, 200);
-    margin-left: 10px;
+    
     
 }
+
+.linkedin
+{ background-color: rgb(255, 200, 200);
+    color: #0000EE; }
+    
+
 
 .dotted-line {
     
